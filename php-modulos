@@ -1,0 +1,21 @@
+libxml
+openssl
+pcntl
+pcre
+PDO
+Phar
+posix
+readline
+Reflection
+session
+shmop
+sockets
+sodium
+SPL
+standard
+sysvmsg
+sysvsem
+sysvshm
+tokenizer
+Zend OPcache
+zlib
